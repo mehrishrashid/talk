@@ -6,5 +6,6 @@ __pycache__/
 instance/
 
 .pytest_cache/
+.idea
 app/temp/*
 !app/temp/.keep
